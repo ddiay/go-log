@@ -1,0 +1,7 @@
+.vscode/last.sql
+.vscode/temp.sql
+*.log
+*.exe
+*.prof
+*.so
+*.a
